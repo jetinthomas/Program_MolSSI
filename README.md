@@ -1,2 +1,1 @@
-# Programs_MolSSI
-Programs for post of Software Scientist (MolSSI)
+# Required Programs for Job Applications.
